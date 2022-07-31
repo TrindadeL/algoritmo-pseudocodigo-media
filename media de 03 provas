@@ -1,0 +1,24 @@
+//Entrada de dados:
+  Nota1
+  Nota2
+  Nota3
+
+//Processamento
+  Calcular a Média
+
+//Saída
+  Mostrar se Aprovado ou Reprovado
+==================================
+Algoritmo:
+
+Leia Nota1
+Leia Nota2
+Leia Nota3
+
+TotalNotas = Nota1 + Nota2 + Nota3
+Media = TotalNotas / 3
+
+Se Media >= 7 então
+  escreva "Aprovado"
+Senão
+  escreva "Reprovado"
